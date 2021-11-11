@@ -9,6 +9,10 @@ body {
     --color-title: #001A49;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .container {
     width: 90%;
     max-width: 1200px;
